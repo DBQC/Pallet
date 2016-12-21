@@ -14,5 +14,11 @@ namespace Monopoly
             Console.WriteLine("Choose how many players...");
             Console.Read();
         }
+
+        static int Rolls()
+        {
+            int roll = 1;
+            return roll;
+        }
     }
 }
