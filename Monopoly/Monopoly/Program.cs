@@ -26,5 +26,10 @@ namespace Monopoly
             int roll = 1;
             return roll;
         }
+
+        static void AssignPlayers()
+        {
+
+        }
     }
 }
