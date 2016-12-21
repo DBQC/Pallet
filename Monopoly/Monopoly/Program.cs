@@ -11,5 +11,10 @@ namespace Monopoly
         static void Main(string[] args)
         {
         }
+
+        static void AssignPlayers()
+        {
+
+        }
     }
 }
