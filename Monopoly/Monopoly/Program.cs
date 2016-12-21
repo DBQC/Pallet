@@ -20,5 +20,11 @@ namespace Monopoly
             int roll = 1;
             return roll;
         }
+
+        static int Rolls()
+        {
+            int roll = 1;
+            return roll;
+        }
     }
 }
