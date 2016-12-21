@@ -1,0 +1,2 @@
+C:\Users\Chris\Source\Repos\PalletTown\Monopoly\Monopoly\bin\Debug\Monopoly.exe.config
+C:\Users\Chris\Source\Repos\Pallet\Monopoly\Monopoly\bin\Debug\Monopoly.exe.config
