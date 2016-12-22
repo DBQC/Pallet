@@ -18,7 +18,7 @@ namespace Monopoly
 
         static int Rolls()
         {
-            int roll = 2;
+            int roll = DateTime.Now.Second;
             return roll;
         }
 
