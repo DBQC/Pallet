@@ -27,3 +27,11 @@
 *.exe
 *.out
 *.app
+
+obj/
+[Bb]in
+[Dd]ebug*/
+[Rr]elease*/
+*.suo
+
+.gitignore
