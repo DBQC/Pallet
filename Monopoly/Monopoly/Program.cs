@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Data;
 
 namespace Monopoly
 {
@@ -11,13 +12,13 @@ namespace Monopoly
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World! Time to Play Monopoly!");
-            Console.WriteLine("Choose how many players...");
+            Console.WriteLine("Choose how many players, up to four...");
             Console.Read();
         }
 
         static int Rolls()
         {
-            int roll = 1;
+            int roll = 2;
             return roll;
         }
 
