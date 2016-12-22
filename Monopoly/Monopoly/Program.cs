@@ -18,7 +18,7 @@ namespace Monopoly
 
         static int Rolls()
         {
-            int roll = 1;
+            int roll = 2;
             return roll;
         }
 
