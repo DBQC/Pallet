@@ -26,7 +26,7 @@ namespace Monopoly
 
         static void AssignPlayers()
         {
-
+            int numberOfPlayers;
         }
     }
 }
