@@ -21,11 +21,7 @@ namespace Monopoly
             return roll;
         }
 
-        static int Rolls()
-        {
-            int roll = 1;
-            return roll;
-        }
+        
 
         static void AssignPlayers()
         {
