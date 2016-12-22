@@ -11,7 +11,7 @@ namespace Monopoly
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World! Time to Play Monopoly!");
-            Console.WriteLine("Choose how many players...");
+            Console.WriteLine("Choose how many players, up to four...");
             Console.Read();
         }
 
