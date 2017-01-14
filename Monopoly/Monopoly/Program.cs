@@ -22,6 +22,11 @@ namespace Monopoly
         static int Rolls()
         {
             int roll = DateTime.Now.Second;
+
+            if (roll > 12)
+            {
+                return 12;
+            }
             return roll;
         }
 
